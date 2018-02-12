@@ -1,0 +1,27 @@
+body {
+    background-image: url("../images/floral.jpg");
+  background-size: cover;
+  font-family: 'PT Sans Caption', sans-serif;
+  font-size: 20px;
+}
+.top-title {
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    color: gold;
+}
+.colorpan {
+    background-image: url("../images/diamondy.jpg");
+    background-size: cover;
+}
+.rules {
+    background: #C93773;
+    color: gold;
+}
+.diampic {
+    background-image: url("../images/diamondy.jpg");
+    background-size: cover;
+    height: 115px;
+    background-image: no-repeat;
+    background-position: center;
+    border-radius: 25px;
+}
